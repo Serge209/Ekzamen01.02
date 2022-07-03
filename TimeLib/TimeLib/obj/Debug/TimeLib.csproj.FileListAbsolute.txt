@@ -1,0 +1,6 @@
+C:\Users\sergi\source\repos\TimeLib\TimeLib\bin\Debug\TimeLib.pdb
+C:\Users\sergi\source\repos\TimeLib\TimeLib\obj\Debug\TimeLib.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\TimeLib\TimeLib\obj\Debug\TimeLib.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\TimeLib\TimeLib\obj\Debug\TimeLib.dll
+C:\Users\sergi\source\repos\TimeLib\TimeLib\obj\Debug\TimeLib.pdb
+C:\Users\sergi\source\repos\TimeLib\TimeLib\obj\Debug\TimeLib.csproj.CopyComplete
