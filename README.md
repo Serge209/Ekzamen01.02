@@ -29,4 +29,4 @@
 
 
 ### Скриншот выполнения программы тестов<br>
-![image](https://user-images.githubusercontent.com/80594181/177059070-3e1c3393-0a32-4d12-aa4a-b2a9d19bd187.png)
+![image](https://user-images.githubusercontent.com/80594181/177059097-d6cf6dab-0ff5-4033-a1e2-e357ad497873.png)
